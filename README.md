@@ -42,7 +42,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: zaidsaly81@gmail.com  
-- 🔗 LinkedIn: (Add later)
+- 🔗 LinkedIn: https://www.linkedin.com/in/zaidsaly
 
 ---
 
