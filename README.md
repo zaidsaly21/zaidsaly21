@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Zaid Saly
 
-<!--
-**zaidsaly21/zaidsaly21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 HND in Software Engineering (Pearson)  
+📊 Future Data Science Undergraduate  
+💻 Aspiring Software Engineer  
+📍 Sri Lanka  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Completed Higher National Diploma in Software Engineering  
+- 📚 Planning to specialize in Data Science (Top-up)  
+- 🌱 Currently starting my journey in programming & real-world projects  
+- 💡 Interested in Software Development, Web Apps & Data Science  
+
+---
+
+## 🛠 Tech Stack (Learning & Practicing)
+- 💻 Languages: Python, Java, JavaScript  
+- 🌐 Web: HTML, CSS  
+- 🗄 Database: MySQL  
+- ⚙ Tools: Git, GitHub, Figma  
+
+---
+
+## 📌 Current Focus
+- 🚀 Building my first real-world projects  
+- 💻 Improving coding and problem-solving skills  
+- 📚 Learning modern technologies step-by-step  
+
+---
+
+## 📂 Projects
+🟡 Projects coming soon... actively building 🚀  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: zaidsaly81@gmail.com  
+- 🔗 LinkedIn: (Add later)
+
+---
+
+⭐ *"Started from zero, building towards mastery."*
