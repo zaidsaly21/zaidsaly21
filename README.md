@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Zaid Saly
+# 👋 Hi, I'm Zaid Mohamed Saly
 
 🎓 HND in Software Engineering (Pearson)  
 📊 Future Data Science Undergraduate  
