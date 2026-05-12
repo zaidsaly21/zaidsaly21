@@ -39,17 +39,19 @@
 A Java console-based bus ticketing system with ticket booking, cancellation, and passenger search features. The system uses Stack and Queue data structures for ticket management, sorting algorithms for passenger and travel-time organization, and a 2D matrix to calculate travel time across bus stops.
 
 ### Restaurant Management System
-A Java console application developed for menu management, order processing, checkout, and discount handling. The project applies Object-Oriented Programming concepts, SOLID principles, and design patterns such as Singleton, Factory Method, and Strategy.
+A Java console application developed for menu management, order processing, checkout and discount handling. The project applies Object-Oriented Programming concepts, SOLID principles, and design patterns such as Singleton, Factory Method and Strategy.
 
 ### AI in Customer Service — Research Study
-A qualitative research study focused on the impact of Artificial Intelligence on customer service efficiency, personalisation, and ethics. The study explored automation, human-centred service design, algorithmic bias, black-box AI, and data privacy challenges.
+A qualitative research study focused on the impact of Artificial Intelligence on customer service efficiency, personalisation and ethics. The study explored automation, human-centred service design, algorithmic bias, black-box AI and data privacy challenges.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidsaly21&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidsaly21&layout=compact)
+## 📌 Profile Highlights
+- 🎓 HND in Software Engineering  
+- 🐍 Learning Python for data analysis and automation  
+- 🗄 Practicing SQL and database concepts  
+- 💻 Experienced with Java academic projects  
+- 🌐 Building web development and portfolio projects  
 
 ---
 
