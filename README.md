@@ -58,7 +58,7 @@ A qualitative research study focused on the impact of Artificial Intelligence on
 ## 📫 Connect With Me
 - 📧 Email: zaidsaly81@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/zaidsaly  
-- 🌐 Portfolio: https://zaidsaly21.github.io/zaid-portfolio/
+- 🌐 Portfolio: 
 
 ---
 
